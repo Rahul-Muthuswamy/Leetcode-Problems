@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [1635-number-of-good-pairs](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0409-longest-palindrome) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
