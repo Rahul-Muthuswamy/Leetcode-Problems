@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0290-word-pattern) |
+| [0392-is-subsequence](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
