@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0409-longest-palindrome) |
+| [0742-to-lower-case](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0742-to-lower-case) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
