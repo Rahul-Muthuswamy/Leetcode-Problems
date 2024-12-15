@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0561-array-partition) |
 | [1635-number-of-good-pairs](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0561-array-partition) |
 ## Backtracking
 |  |
 | ------- |
@@ -90,4 +92,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
