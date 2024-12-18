@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0561-array-partition) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1635-number-of-good-pairs](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2058-concatenation-of-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
