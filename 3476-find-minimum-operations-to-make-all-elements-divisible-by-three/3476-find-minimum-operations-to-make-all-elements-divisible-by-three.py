@@ -1,9 +1,7 @@
 class Solution:
     def minimumOperations(self, nums: List[int]) -> int:
-        res=0
+        s=0
         for i in nums:
-            if(i%3!=0):
-                res+=1
-        return res
-
-                
+            if i%3!=0:
+                s+=1
+        return s
