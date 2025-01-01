@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1572-subrectangle-queries](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1572-subrectangle-queries) |
 | [1580-shuffle-the-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
+| [1572-subrectangle-queries](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1572-subrectangle-queries) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1572-subrectangle-queries](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1572-subrectangle-queries) |
 | [1791-richest-customer-wealth](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 ## Monotonic Stack
 |  |
