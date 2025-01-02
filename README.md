@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1797-goal-parser-interpretation](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1797-goal-parser-interpretation) |
+| [2128-reverse-prefix-of-word](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3194-find-words-containing-character](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2128-reverse-prefix-of-word](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0392-is-subsequence) |
+| [2128-reverse-prefix-of-word](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 ## Dynamic Programming
 |  |
 | ------- |
