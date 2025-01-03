@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
+| [1944-truncate-sentence](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1944-truncate-sentence) |
 | [2048-build-array-from-permutation](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1797-goal-parser-interpretation](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1797-goal-parser-interpretation) |
+| [1944-truncate-sentence](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1944-truncate-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
