@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-subrectangle-queries](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1572-subrectangle-queries) |
 | [1580-shuffle-the-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 | [1944-truncate-sentence](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1944-truncate-sentence) |
 | [2048-build-array-from-permutation](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1797-goal-parser-interpretation) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1944-truncate-sentence](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1944-truncate-sentence) |
@@ -83,12 +85,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0782-jewels-and-stones) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1635-number-of-good-pairs](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Counting
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Stack
 |  |
 | ------- |
@@ -173,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
