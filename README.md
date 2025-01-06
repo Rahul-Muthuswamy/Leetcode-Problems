@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2714-left-and-right-sum-differences](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -196,4 +197,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 <!---LeetCode Topics End-->
