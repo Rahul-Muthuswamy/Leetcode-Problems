@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2886-faulty-keyboard) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3412-permutation-difference-between-two-strings) |
