@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0742-to-lower-case](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0782-jewels-and-stones) |
+| [1160-letter-tile-possibilities](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1205-defanging-an-ip-address](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0782-jewels-and-stones](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0782-jewels-and-stones) |
+| [1160-letter-tile-possibilities](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1635-number-of-good-pairs](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0039-combination-sum) |
+| [1160-letter-tile-possibilities](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Design
 |  |
