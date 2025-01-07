@@ -3,7 +3,6 @@ class Solution:
         while "i" in s:
             index=s.index("i")
 
-            #first half and second half
             first=s[:index][::-1]
             second=s[index+1:]
 
