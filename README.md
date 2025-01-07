@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0742-to-lower-case](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0782-jewels-and-stones) |
+| [1078-remove-outermost-parentheses](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1205-defanging-an-ip-address](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2128-reverse-prefix-of-word](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
