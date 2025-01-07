@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3379-score-of-a-string) |
+| [3396-valid-word](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3396-valid-word) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
