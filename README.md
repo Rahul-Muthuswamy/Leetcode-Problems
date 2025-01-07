@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1899-count-items-matching-a-rule](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1944-truncate-sentence) |
 | [2048-build-array-from-permutation](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2058-concatenation-of-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1797-goal-parser-interpretation) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1899-count-items-matching-a-rule](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1944-truncate-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
