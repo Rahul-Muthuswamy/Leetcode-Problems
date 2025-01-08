@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0561-array-partition](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0822-unique-morse-code-words](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0822-unique-morse-code-words) |
+| [1044-find-common-characters](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1044-find-common-characters) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1505-create-target-array-in-the-given-order) |
 | [1524-string-matching-in-an-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0822-unique-morse-code-words) |
+| [1044-find-common-characters](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1205-defanging-an-ip-address](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1205-defanging-an-ip-address) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0782-jewels-and-stones](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0822-unique-morse-code-words) |
+| [1044-find-common-characters](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1044-find-common-characters) |
 | [1160-letter-tile-possibilities](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1547-destination-city](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1547-destination-city) |
