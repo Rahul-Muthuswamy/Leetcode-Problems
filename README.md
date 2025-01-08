@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1547-destination-city) |
 | [1635-number-of-good-pairs](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2406-decode-the-message](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2406-decode-the-message) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Stack
 |  |
