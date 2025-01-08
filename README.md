@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3194-find-words-containing-character](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3226-minimum-number-game) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
