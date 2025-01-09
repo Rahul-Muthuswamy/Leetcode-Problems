@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1547-destination-city) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-subrectangle-queries](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1572-subrectangle-queries) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1656-count-good-triplets) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0561-array-partition) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2502-sort-the-people) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3226-minimum-number-game](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3226-minimum-number-game) |
 ## Trie
 |  |
