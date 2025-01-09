@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2401-count-asterisks](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2502-sort-the-people) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Heap (Priority Queue)
 |  |
