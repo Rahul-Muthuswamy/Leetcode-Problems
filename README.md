@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1944-truncate-sentence) |
+| [1954-replace-all-digits-with-characters](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1954-replace-all-digits-with-characters) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
