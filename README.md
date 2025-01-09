@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0861-flipping-an-image](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0861-flipping-an-image) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -346,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
