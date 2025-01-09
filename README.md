@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
+| [2465-shifting-letters-ii](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2401-count-asterisks](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2406-decode-the-message) |
+| [2465-shifting-letters-ii](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2886-faulty-keyboard) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1833-find-the-highest-altitude](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2465-shifting-letters-ii](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2714-left-and-right-sum-differences](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
 ## Binary Search
 |  |
