@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1656-count-good-triplets](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1656-count-good-triplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Game Theory
 |  |
 | ------- |
