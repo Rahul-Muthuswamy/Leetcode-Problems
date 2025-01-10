@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3396-valid-word) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 ## Hash Table
 |  |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
