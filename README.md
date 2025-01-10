@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [1044-find-common-characters](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1044-find-common-characters) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1505-create-target-array-in-the-given-order) |
 | [1524-string-matching-in-an-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0822-unique-morse-code-words) |
 | [1044-find-common-characters](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1044-find-common-characters) |
 | [1160-letter-tile-possibilities](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1547-destination-city](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1547-destination-city) |
 | [1635-number-of-good-pairs](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
