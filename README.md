@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Two Pointers
 |  |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Backtracking
 |  |
