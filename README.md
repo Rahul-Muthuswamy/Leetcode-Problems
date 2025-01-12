@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3226-minimum-number-game) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3412-permutation-difference-between-two-strings) |
