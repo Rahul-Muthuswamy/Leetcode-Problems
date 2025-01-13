@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+| [3686-count-beautiful-splits-in-an-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3686-count-beautiful-splits-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0392-is-subsequence) |
+| [3686-count-beautiful-splits-in-an-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3686-count-beautiful-splits-in-an-array) |
 ## Greedy
 |  |
 | ------- |
