@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2509-minimize-xor) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Backtracking
 |  |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0861-flipping-an-image](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0861-flipping-an-image) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2509-minimize-xor](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2509-minimize-xor) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
