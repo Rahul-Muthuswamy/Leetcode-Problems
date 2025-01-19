@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2226-rings-and-rods](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2226-rings-and-rods) |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2226-rings-and-rods](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2226-rings-and-rods) |
 | [2406-decode-the-message](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2406-decode-the-message) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2502-sort-the-people) |
