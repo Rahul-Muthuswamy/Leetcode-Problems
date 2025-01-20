@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2639-separate-the-digits-in-an-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2556-convert-the-temperature](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2556-convert-the-temperature) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-decode-the-message](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2406-decode-the-message) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2502-sort-the-people) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
