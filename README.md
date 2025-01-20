@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2502-sort-the-people) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
