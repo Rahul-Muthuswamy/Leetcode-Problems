@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0283-move-zeroes](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [3686-count-beautiful-splits-in-an-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3686-count-beautiful-splits-in-an-array) |
