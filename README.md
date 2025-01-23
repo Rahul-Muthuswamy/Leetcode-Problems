@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1505-create-target-array-in-the-given-order) |
 | [1524-string-matching-in-an-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1502-construct-k-palindrome-strings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1635-number-of-good-pairs](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1137-height-checker) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0861-flipping-an-image) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2509-minimize-xor](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2509-minimize-xor) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
