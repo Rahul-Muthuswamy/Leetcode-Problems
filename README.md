@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [0952-word-subsets](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0952-word-subsets) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1137-height-checker) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0822-unique-morse-code-words) |
 | [0952-word-subsets](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0952-word-subsets) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1044-find-common-characters) |
 | [1160-letter-tile-possibilities](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
