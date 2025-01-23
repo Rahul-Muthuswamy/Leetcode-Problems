@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0078-subsets) |
 | [0217-contains-duplicate](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0078-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Design
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0078-subsets) |
 | [0861-flipping-an-image](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0861-flipping-an-image) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
