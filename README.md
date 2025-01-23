@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1547-destination-city](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1547-destination-city) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-subrectangle-queries](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1572-subrectangle-queries) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1502-construct-k-palindrome-strings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1547-destination-city](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1547-destination-city) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1137-height-checker) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
