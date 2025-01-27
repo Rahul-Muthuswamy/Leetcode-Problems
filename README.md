@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1899-count-items-matching-a-rule) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1944-truncate-sentence](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1944-truncate-sentence) |
+| [1972-rotating-the-box](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1972-rotating-the-box) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2048-build-array-from-permutation](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2058-concatenation-of-array) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0861-flipping-an-image](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/0861-flipping-an-image) |
 | [1894-merge-strings-alternately](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
+| [1972-rotating-the-box](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1972-rotating-the-box) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1572-subrectangle-queries](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1572-subrectangle-queries) |
 | [1791-richest-customer-wealth](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
+| [1972-rotating-the-box](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/1972-rotating-the-box) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rahul-Muthuswamy/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Monotonic Stack
 |  |
